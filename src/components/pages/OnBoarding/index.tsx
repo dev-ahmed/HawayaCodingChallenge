@@ -2,7 +2,7 @@ import {useNavigation} from '@react-navigation/core';
 import React, {useState} from 'react';
 import {View} from 'react-native';
 import {SafeAreaView} from 'react-native-safe-area-context';
-import {checkPhone} from '../../../../utils/validation';
+import {checkPhone} from '../../../utils/validation';
 import {ROUTES} from '../../../constants';
 import {Text} from '../../atoms/Text';
 import {SubmitButton} from '../../molecules/SubmitButton';

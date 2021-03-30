@@ -1,6 +1,6 @@
 import {metrics} from './../../../constants/metrics';
 import {StyleSheet} from 'react-native';
-import {calcFont, calcHeight, calcWidth} from '../../../../utils/normalize';
+import {calcFont, calcHeight, calcWidth} from '../../../utils/normalize';
 import {fonts} from '../../../constants';
 
 const styles = StyleSheet.create({
